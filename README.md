@@ -11,7 +11,6 @@
 
 - Gera QR Codes personalizados a partir de texto, links ou qualquer conteúdo desejado
 - Interface simples e responsiva (mobile e desktop)
-- [Opcional: outros recursos, como escolha de cor ou tema, se houver]
 
 ---
 
