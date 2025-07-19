@@ -10,7 +10,6 @@
 ## 🚀 Funcionalidades
 
 - Gera QR Codes personalizados a partir de texto, links ou qualquer conteúdo desejado
-- Permite download do QR Code em alta resolução
 - Interface simples e responsiva (mobile e desktop)
 - [Opcional: outros recursos, como escolha de cor ou tema, se houver]
 
